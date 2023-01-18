@@ -16,6 +16,10 @@ Static website created to showcase the power of HTML, CSS and JavaScript
 * BootStrap
 * MDBootStrap 
 
+#### Figma Design
+
+* https://www.figma.com/file/4lojz7UYQ7FNBWymv8rtTl/Furniture-Inspiration?node-id=0%3A1&t=vLorlZHlinwgJSl5-0
+
 #### Setting Up the Project
 
 1. Open your terminal (CTRL ALT T)
